@@ -1,0 +1,1 @@
+What is JAVA? Where is it used?

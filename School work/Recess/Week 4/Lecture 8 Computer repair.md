@@ -1,0 +1,1 @@
+Inventory list according to the name of your group

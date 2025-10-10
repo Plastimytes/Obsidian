@@ -1,0 +1,1 @@
+Did Paver work today. Tired. Going to read something. 10K closer to CF project. Need to start or need break through idea to generate more income. God help me.
