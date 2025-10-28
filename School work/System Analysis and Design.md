@@ -111,3 +111,52 @@ Step 3:Perform fact finding that is analyzation of organizational charts, Interv
 Step 4:Evaluate feasibility
 Step 5: Evaluate project development time and cost. After gathering cost and benefit data one should be able to prepare financial analysis and impact statements using spreadsheets and other decision support tools
 Step 6: Presentation of results and recommendations to the managing body. With the first section being an overview of the report followed by a system request summary, a case for action, Project roles and time and cost estimates.
+
+-------------------------------
+Revision 
+SAD is the step by step process of developing high quality info. Systems
+SDLC
+
+What makes them high quality ?
+-Time 
+-Cost 
+-Scope
+
+Info system components 
+-People
+-Processes
+-Data
+-Hardware
+-Software
+
+Business Profile -Statement that defines the business' mission, process, vision
+
+Business Process-The day to day activities of a business 
+
+Business Process Model- graphical representation of the day to day activities of a business 
+
+Business Process Modelling- Process of coming up with a business Process Model.
+
+Types of IS
+Enterprise Resource Planning - manages a company's business processes
+TPS - day to day activities low level workers (Operational employees )
+MIS- Middle Managers
+DSS - Top level managers 
+Knowledge Information Systems 
+
+System Development 
+**System Development tools**
+-Modelling
+-Prototyping-early working version of a system 
+-CASE tools- software frameworks used model systems (SDLC(Planning, Analysis, Developing and testing, Implementation support and security), Agile methods)
+
+-System model(Data model, Object model, Network model- comm. Links used/layers, Process Model-flow of processes, Business model-profile)
+
+SDLC -System Design Life Cycle 
+Process centered 
+PADIS
+Systems Planning -Systems request, Preliminary investigation report (Strategic planning, SWOT, Business Case, )
+Systems Analysis -Systems requirements document is the deliverable
+
+Object Oriented 
+Agile methods- building on existing product with user feedback, integrated modules 
