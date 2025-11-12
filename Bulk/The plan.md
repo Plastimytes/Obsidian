@@ -103,3 +103,6 @@ In these weeks, focus on increasing weight, reps, and sets to continue progressi
 - **Caloric Surplus**: Aim for a slight caloric surplus (250-500 calories above maintenance) to gain muscle without excessive fat.
 - **Macronutrients**: Focus on getting a balanced intake of protein (1.2-2.0 grams per kg of body weight), healthy fats, and carbohydrates.
 - **Hydration**: Drink plenty of water to stay hydrated, especially when lifting heavier weights.
+
+
+Nothing got done today 
